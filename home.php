@@ -1,0 +1,1 @@
+<?php print("Welcome to home page."); ?>
